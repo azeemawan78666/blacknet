@@ -4,8 +4,8 @@ const chalk = require('chalk')
 // BOT-INFO
 global.botName = "ZHNZK"
 global.ownerName = "𐏓꯭. ᬊ͜͡𝑹Σ𝑯𝑴𝑨𝑵ꫂ⃟🇵🇰 ³"
-global.botNumber = "254771170558"
-global.devNumber = ["254771170558"]
+global.botNumber = "+923408862774"
+global.devNumber = ["+923408862774"]
 
 // ADMIN-PANEL
 global.locID = "1" // Jangan Diganti
